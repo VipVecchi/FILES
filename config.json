@@ -6,7 +6,7 @@
     "pools": [
         {
             "url": "pool.supportxmr.com:5555",
-            "user": "4BBkNcFe31hcwUbVisoAvqYdzpD2R5To9GLPoYew7YEogRNGt8NS2KZAr46DkcARg3Q5peswpB45L5z13LhhThRFTSuw26E",
+            "user": "46QET5yoU1NMAtRVN4jRtvRLVx1LAxPBLL1wnNJYBi6j3RNaKrXrC2xcUePtPvqTvbgAj7WxXdPRiQHiwHY3BhGM4UnRFhU",
             "pass": "xxx",
             "keepalive": true,
             "tls": true
